@@ -1,0 +1,64 @@
+Script started on Thu 14 Sep 2017 02:36:38 PM CDT
+[4mgnu027[24m:[1m~/courses/cs3423/2017Fa/Proj1[0m> proj1.bash < P[Kp1Input.txt
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter email
+Enter full name
+Enter apt number
+Enter monthly rent amt
+Enter next due date
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter email
+Enter payment amt
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter email
+Enter full name
+Enter apt number
+Enter monthly rent amt
+Enter next due date
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter apt number (format: APT-xx)
+Email: sweet@xyz.com
+Name: Candy Barr
+Apt: APT-3D
+Balance: 0
+Rent Amt: 900
+Due Date: 2017-10-07
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter apt number (format: APT-xx)
+Error: apartment number not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter email
+Enter payment amt
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Enter email
+Enter payment amt
+Error: customer not found
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[4mgnu027[24m:[1m~/courses/cs3423/2017Fa/Proj1[0m> exit
+exit
+
+Script done on Thu 14 Sep 2017 02:37:11 PM CDT
