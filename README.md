@@ -1,5 +1,5 @@
 # Linux-project
 
-8 linux project in System Programming + extra stuff
+8 linux project in System Programming
 
-//TODO: add project description
+// project description
