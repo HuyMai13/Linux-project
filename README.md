@@ -1,5 +1,5 @@
 # Linux-project
 
-8 linux project in System Programming
+8 small linux project in System Programming
 
 // project description
